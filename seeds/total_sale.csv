@@ -1,11 +1,8 @@
 id,SalePersonFName,SalePersonLName,ProductName,ItemsSold,SoldPrice,Country,Region
-1,Aamir,Shahzad,TV,1,700,USA,"North 
-America"
+1,Aamir,Shahzad,TV,1,700,USA,North America
 2,M,Raza,Cell Phone,2,800,USA,North America
-3,Christy,Ladson,TV,3,1600,USA,"North 
-America"
-4,John,Rivers,Laptop,5,2400,USA,"North 
-America"
+3,Christy,Ladson,TV,3,1600,USA,North America
+4,John,Rivers,Laptop,5,2400,USA,North America
 5,Najaf,Ali,Computer,1,300,Pakistan,Asia
 6,Sukhjeet,Singh,TV,2,900,India,Asia
 7,Chirag,Patel,Cell Phone,5,1500,India,Asia
